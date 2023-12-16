@@ -23,8 +23,8 @@ The analysis was conducted in Python. It consists of three different parts:
 * VaR modelling using different methods (historical, parametric, Monte Carlo, Garch, ...).
 
 The corresponding files are:
-* `risk_analysis.ipynb`,
-* `portfolio_analysis.ipynb`,
-* `VaR_modelling.ipynb`.
+* `I_risk_analysis.ipynb`,
+* `II_portfolio_analysis.ipynb`,
+* `III_VaR_modelling.ipynb`.
 
 Project was conducted as a part of the course "Risk modelling" at Wrocław University of Science and Technology.
